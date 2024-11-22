@@ -1,0 +1,121 @@
+<html lang="ar" class="translated-rtl"><head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>نموذج تسجيل الدخول والتسجيل المستجيب</title>
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/style.css">
+                
+        <!-- Boxicons CSS -->
+        <link href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css" rel="stylesheet">
+                        
+    <link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=GAw/d=0/rs=AN8SPfoV6mMC6tlFnBTPsgfPv12vhvDMnA/m=el_main_css"></head>
+    <body>
+	
+        <section class="container forms">
+	
+            <div class="form login">
+                <div class="form-content">
+                    <header><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">تسجيل الدخول</font></font></header>
+                    <form action="#">
+                        <div class="field input-field">
+                            <input type="email" placeholder="بريد إلكتروني" class="input">
+                        </div>
+
+                        <div class="field input-field">
+                            <input type="password" placeholder="كلمة المرور" class="password">
+                            <i class="bx bx-hide eye-icon"></i>
+                        </div>
+
+                        <div class="form-link">
+                            <a href="#" class="forgot-pass"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">هل نسيت كلمة السر؟</font></font></a>
+                        </div>
+
+                        <div class="field button-field">
+                            <button><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">تسجيل الدخول</font></font></button>
+                        </div>
+                    </form>
+
+                    <div class="form-link">
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ليس لديك حساب؟ </font></font><a href="#" class="link signup-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">قم بالتسجيل</font></font></a></span>
+                    </div>
+                </div>
+
+                <div class="line"></div>
+
+             
+
+                <div class="media-options">
+                    <a href="#" class="field google">
+                        <img src="images/google.png" alt="" class="google-img">
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">تسجيل الدخول باستخدام جوجل</font></font></span>
+                    </a>
+                </div>
+				
+				
+				<div class="media-options">
+                    <a href="#" class="field facebook">
+                        <i class="bx bxl-facebook facebook-icon"></i>
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">تسجيل الدخول باستخدام الفيسبوك</font></font></span>
+                    </a>
+                </div>
+
+            </div>
+
+            <!-- Signup Form -->
+
+            <div class="form signup">
+                <div class="form-content">
+                    <header><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">اشتراك</font></font></header>
+                    <form action="#">
+                        <div class="field input-field">
+                            <input type="email" placeholder="بريد إلكتروني" class="input">
+                        </div>
+
+                        <div class="field input-field">
+                            <input type="password" placeholder="إنشاء كلمة المرور" class="password">
+                        </div>
+
+                        <div class="field input-field">
+                            <input type="password" placeholder="تأكيد كلمة المرور" class="password">
+                            <i class="bx bx-hide eye-icon"></i>
+                        </div>
+
+                        <div class="field button-field">
+                            <button><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">اشتراك</font></font></button>
+                        </div>
+                    </form>
+
+                    <div class="form-link">
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">هل لديك حساب بالفعل؟ </font></font><a href="#" class="link login-link"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">تسجيل الدخول</font></font></a></span>
+                    </div>
+                </div>
+
+                <div class="line"></div>
+
+                
+
+                <div class="media-options">
+                    <a href="#" class="field google">
+                        <img src="images/google.png" alt="" class="google-img">
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">تسجيل الدخول باستخدام جوجل</font></font></span>
+                    </a>
+                </div>
+
+<div class="media-options">
+                    <a href="#" class="field facebook">
+                        <i class="bx bxl-facebook facebook-icon"></i>
+                        <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">تسجيل الدخول باستخدام الفيسبوك</font></font></span>
+                    </a>
+                </div>
+				
+
+
+            </div>
+        </section>
+
+        <!-- JavaScript -->
+        <script src="js/script.js"></script>
+    
+</body></html>
